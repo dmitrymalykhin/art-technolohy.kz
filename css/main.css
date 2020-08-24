@@ -734,4 +734,7 @@ footer .title-h2:before {
 	.social {
 		margin-top: 25px;
 	}
+	.call-form-input {
+		margin-right: 0;
+	}
 }
